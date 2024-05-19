@@ -2,4 +2,4 @@ cambio 1
 cambio 2
 cambio 3 de rama prueba
 cambio 4 acualizado
-cambio 5 esperando
+cambio 5 actualizado en rama prueba
